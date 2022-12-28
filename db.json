@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "name": "Apple iPhone SE 64GB серебристый",
+      "description": "Представляем iPhone SE — самый мощный 4-дюймовый смартфон в истории. Чтобы создать его, разработчики взяли за основу полюбившийся дизайн и полностью поменяли содержание. Установили тот же передовой процессор A9, что и на iPhone 6s, и камеру 12 Мп для съёмки невероятных фотографий и видео 4K. А благодаря Live Photos любой ваш снимок буквально оживёт.",
+      "price": "100",
+      "picture": "https://svetofor.info/images/thumbnails/500/500/detailed/74/apple-iphone-se-silver_2c7c-lk.jpg",
+      "type": "telephone",
+      "id": 1
+    },
+    {
+      "name": "Nokia 230 Dual Sim черный",
+      "description": "Nokia 230 — телефон, работающий на платформе Series 30+, оснащенный LCD Transmissive-дисплеем, отображающим до 65 тыс. цветов, с диагональю 2.8\" и камерой на 2 Mpx. Оснащен относительно слабым аккумулятором на 1200 mAh, который позволяет аппарату работать до 648 часов в режиме ожидания и до 23 в режиме разговора. Для коммуникации может предложить: Web-браузер, стерео Bluetooth и т.д. Для любителей музыки есть аудио выход на 3.5 мм",
+      "price": "600",
+      "picture": "https://svetofor.info/images/thumbnails/500/500/detailed/65/nokia-230-dual-sim-chernyy.jpg",
+      "type": "telephone",
+      "id": 2
+    },
+    {
+      "name": "Смартфон Samsung Galaxy S22 ",
+      "description": "Соотношение сторон телефона: 20:9Размер изображения (дюйм): 1440x3040Количество мегапикселей основной камеры телефона: 108+10+10+12Тип процессора телефона: Exynos 2200Датчики и сенсоры телефона: гироскоп, компас, акселерометр, барометр, Отпечаток пальца (под дисплеем, ультразвуковой), приближение. Дополнительная информация о телефоне: несъемный аккумулятор",
+      "price": 1200,
+      "picture": "https://svetofor.info/images/detailed/291/smartfon-samsung-galaxy-s22-ultra-256-gb-ram-12-gb-dual-sim-purple-1.jpg",
+      "type": "telephone",
+      "id": 3
+    },
+    {
+      "name": "Смартфон Xiaomi 12 Про ",
+      "description": "Соотношение сторон телефона: 20:9Размер изображения (дюйм): 1440x3200Количество мегапикселей основной камеры телефона: 50+50+50Тип процессора телефона: SM8450 Snapdragon 8 Gen 1Датчики и сенсоры телефона: датчик освещения, Гироскоп, цифровой компас, сканер отпечатка .Дополнительная информация о телефоне: Быстрая зарядка 120 Вт, 100% за 18 минут",
+      "price": "1200",
+      "picture": "https://svetofor.info/images/detailed/291/smartfon-xiaomi-12-pro-256-gb-ram-12-gb-dual-sim-purple-1.jpg",
+      "type": "telephone",
+      "id": 4
+    },
+    {
+      "name": "Телефон ARK Benefit U4",
+      "description": "Смартфон ARK обладает хорошей камерой на 0.1 Мп. Объем встроенной памяти составляет 0.032 Gb. Под крышкой скрывается аккумулятор ёмкостью 800 мАч",
+      "price": "100",
+      "picture": "https://svetofor.info/images/detailed/280/telefon-ark-benefit-u4-0032-gb-ram-gb-1.jpg",
+      "type": "telephone",
+      "id": 5
+    },
+    {
+      "name": "Телефон Honor 10X Lite",
+      "description": "Смартфон Honor обладает хорошей камерой на 48+8+2+2 Мп. Объем встроенной памяти составляет 128 Gb. Оперативной памяти на 4 Gb хватает для стабильной работы системы. Под крышкой скрывается аккумулятор ёмкостью 5000 мАч. Поддержка диапазона 4G даст вам возможность пользоваться быстрым интернетом.",
+      "price": 1809,
+      "picture": "https://svetofor.info/images/thumbnails/500/500/detailed/219/telefon-honor-10x-lite-128-gb-ram-4-gb-white.jpg",
+      "type": "telephone",
+      "id": 6
+    },
+    {
+      "name": "СМАРТ-ЧАСЫ APPLE WATCH SERIES 7 GPS 45MM GREEN ALUMINIUM CLOVER SPORT BAND MKN73GK/A",
+      "description": "Область просмотра на всегда включённом дисплее Retina увеличена примерно на 20% по сравнению с Series 6 — теперь пользоваться часами ещё удобнее",
+      "price": 5500,
+      "picture": "https://www.ixbt.com/img/r30/00/02/49/31/apple-watch-series-7-big.jpg",
+      "type": "watch",
+      "id": 7
+    },
+    {
+      "name": "СМАРТ-ЧАСЫ HUAWEI WATCH GT2 PRO SPORT NIGHT BLACK",
+      "description": "Создатели HUAWEI WATCH GT поставили перед собой задачу выявить максимальный потенциал батареи смарт-часов. Благодаря двойному процессору для носимых устройств Kirin A1 (собственная разработка HUAWEI) и интеллектуальной технологии энергосбережения вы сможете пользоваться смарт-часами круглосуточно до 2 недель без подзарядки",
+      "price": "1199",
+      "picture": "https://object.pscloud.io/cms/cms/Photo/img_0_911_461_0_6_320.webp",
+      "type": "watch",
+      "id": 8
+    },
+    {
+      "name": " СМАРТ-ЧАСЫ SAMSUNG GALAXY WATCH 3 STAINLESS 41MM SILVER (SM-R850NZSACIS)",
+      "description": "Теперь состояние здоровья контролировать стало легче. В инновационном устройстве Galaxy Watch3 с классическим дизайном гармонично сочетаются функциональность смартфона с новейшей технологией мониторинга здоровья пользователя.",
+      "price": "1111",
+      "picture": "https://object.pscloud.io/cms/cms/Photo/img_0_911_410_6_1_320.webp",
+      "type": "watch",
+      "id": 9
+    },
+    {
+      "name": "СМАРТ ЧАСЫ SAMSUNG GALAXY WATCH ACTIVE 38MM SM-R500 BLACK (SM-R500NZKASKZ)",
+      "description": "Умные часы Galaxy Watch Active получили современный премиальный дизайн и умные технологии. Устройство выполнено в тонком и легком корпусе, внутри которого нашлось место для современной начинки и богатого набора функций.",
+      "price": "800",
+      "picture": "https://object.pscloud.io/cms/cms/Photo/img_0_911_285_4_320.webp",
+      "type": "watch",
+      "id": 10
+    },
+    {
+      "name": " СМАРТ-ЧАСЫ HUAWEI WATCH FIT ACTIVE SAKURA PINK",
+      "description": "Яркий AMOLED-экран 1,64 дюйма | Мониторинг здоровья1 и тренировок | GPS",
+      "price": 1122,
+      "picture": "https://object.pscloud.io/cms/cms/Photo/img_0_911_432_7_1_320.webp",
+      "type": "watch",
+      "id": 11
+    },
+    {
+      "name": "СМАРТ-ЧАСЫ AMAZFIT BIP U BLACK",
+      "description": "Разрешение Xiaomi Amazfit Bip U составляет 320x302 пикселя. Высокое разрешение дисплея умных часов создает изысканный визуальный образ дисплея. Уведомления, сообщения и напоминания будут видны отчетливо при любом освещении.",
+      "price": "1290",
+      "picture": "https://object.pscloud.io/cms/cms/Photo/img_0_911_542_0_1_320.webp",
+      "type": "watch",
+      "id": 12
+    },
+    {
+      "name": "Ноутбук Dell G3 15 Gaming G3590 15.6 ' Intel Core i5 9300H 8 Gb DDR4 512 Gb SSD GTX 1060Ti белый",
+      "description": "Системы Dell Gaming специально спроектированы с учетом уникальных высоких требований игровой аудитории. Они оснащаются новейшими процессорами и мощными выделенными графическими адаптерами, чтобы сделать каждую игру еще насыщеннее и реалистичнее.",
+      "price": 1234,
+      "picture": "https://svetofor.info/images/thumbnails/500/500/detailed/183/noutbuk-dell-g3-15-gaming-g3590-156-intel-core-i5-9300h-8-gb-ddr4-512-gb-ssd-gtx-1060ti-belyj-1.jpg",
+      "type": "laptop",
+      "id": 13
+    },
+    {
+      "name": "Ноутбук ASUS X540UB 15.6 ' Intel Core i5 8250U 12 Gb DDR4 240 Gb SSD NVIDIA GeForce MX110 серебристый",
+      "description": "Процессор Intel Core i5 сделает любую вашу работу невероятно быстрой. Объем оперативной памяти составляет 12 Gb. Ноутбук ASUS X540UB c разрешением в 1920x1080 отлично подойдет для работы или просмотра любимых фильмов и сериалов. А с видеокартой NVIDIA GeForce MX110 изображение будет всегда четким и красивым. С объемом жесткого диска в 240 Gb вам всегда хватит места, чтобы сохранить важные документы. Вы можете пользоваться Wi-Fi в любом удобном для вас месте.",
+      "price": "899",
+      "picture": "https://svetofor.info/images/thumbnails/500/500/detailed/216/noutbuk-asus-x540ub-156-intel-core-i5-8250u-12-gb-ddr4-240-gb-ssd-nvidia-geforce-mx110-serebristyj-1.jpg",
+      "type": "laptop",
+      "id": 14
+    },
+    {
+      "name": "Ноутбук Asus VivoBook S532FA-SB77 15.6 ' Intel Core i7 8565U 8 Gb DDR4 512 Gb SSD UHD Graphics 620 серебристый",
+      "description": "оутбук ASUS, модель VivoBook S15 S532FA (S532FA-SB77) оснащён всем необходимым для быстрой и комфортной работы. Быстродействие обеспечивает 4-ядерный процессор Intel Core i7-8565U с частотой работы 1,8 ГГц (до 4,6 ГГц в режиме TurboBoost) и 8 ГБ оперативной памяти. Для хранения данных установлен накопитель 512 ГБ SSD, присутствует кардридер . Видео на 15,6\" IPS экран с разрешением 1920x1080 точек выводит графический адаптер Intel HD Graphics 630. ",
+      "price": "1300",
+      "picture": "https://svetofor.info/images/thumbnails/500/500/detailed/182/noutbuk-asus-vivobook-s532fa-sb77-156-intel-core-i7-8565u-8-gb-ddr4-512-gb-ssd-uhd-graphics-620-serebristyj.jpg",
+      "type": "laptop",
+      "id": 15
+    },
+    {
+      "name": "Ноутбук Lenovo Yoga Slim 7 15ITL05 Core i7-1165G7 (up to 4.7Ghz), 16GB, 256GB SSD,",
+      "description": "16GB, 256GB SSD, Intel® Iris® Xe Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+      "price": "1200",
+      "picture": "https://ultra.kg/upload/resize_cache/iblock/f61/500_500_1d0e97ea46f4438969ab06dd5b311ca67/f6115937c5ce83d1ace89a7611a41026.jpg",
+      "type": "laptop",
+      "id": 16
+    },
+    {
+      "name": "bhjnkm",
+      "description": "hbjn",
+      "price": 809,
+      "picture": "hjk",
+      "type": "bnm",
+      "id": 17
+    },
+    {
+      "name": "",
+      "description": "",
+      "price": 234,
+      "picture": "",
+      "type": "",
+      "id": 18
+    }
+  ]
+}
