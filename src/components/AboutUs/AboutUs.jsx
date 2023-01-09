@@ -1,6 +1,7 @@
 import React from "react";
 //import "./AboutUs.css";
 // https://www.youtube.com/watch?v=kwlOAeFLKH0
+import "./AboutUs.css";
 
 const AboutUs = () => {
   return (

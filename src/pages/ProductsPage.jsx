@@ -7,11 +7,7 @@ const ProductsPage = () => {
   return (
     <Box p={5}>
       ProductsPage
-      <Grid
-        // sx={{ backgroundColor: "black", height: "100vh" }}
-        container
-        spacing={3}
-      >
+      <Grid container spacing={3}>
         <ProductsList />
         <SideBar />
       </Grid>
